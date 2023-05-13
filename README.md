@@ -1,7 +1,7 @@
 # 50-days-50-projects
 
 |  #  | Project                                                                                                                     | Live Demo     | Completion                                                                    |
-| :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------- |
+| :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | :----------------------: |
 | 01  | [Expanding Cards](https://github.com/lvSojen/50-days-50-projects/tree/main/day1)                             | [Live Demo](https://lvsojen.github.io/50-days-50-projects/day1/)               | ✅
 | 02  | [Progress Steps](https://github.com/bradtraversy/50projects50days/tree/master/progress-steps)                               | [Live Demo](https://50projects50days.com/projects/progress-steps/)                | ❌
 | 03  | [Rotating Navigation Animation](https://github.com/bradtraversy/50projects50days/tree/master/rotating-nav-animation)                       | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
