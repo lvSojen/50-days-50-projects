@@ -3,7 +3,7 @@
 |  #  | Project                                                                                                                     | Live Demo     | Completion                                                                    |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | :----------------------: |
 | 01  | [Expanding Cards](https://github.com/lvSojen/50-days-50-projects/tree/main/day1) | [Live Demo](https://lvsojen.github.io/50-days-50-projects/day1/) | ✅ |
-| 02  | [Progress Steps]() | [Live Demo]() | 🚧 |
+| 02  | [Progress Steps](https://github.com/lvSojen/50-days-50-projects/tree/main/day2) | [Live Demo]() | ✅ |
 | 03  | [Rotating Navigation Animation]() | [Live Demo]() | 🚧 |
 | 04  | [Hidden Search Widget]() | [Live Demo]() | 🚧 |
 | 05  | [Blurry Loading]() | [Live Demo]() | 🚧 |
